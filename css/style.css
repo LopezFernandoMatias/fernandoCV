@@ -667,6 +667,10 @@ span{
     header {
       padding: 1rem 2%;
     }
+    .heading{
+        font-size: 6rem;
+    }
+    
   
     section {
       padding: 8rem 2% 1rem;
@@ -676,10 +680,10 @@ span{
       left: 5px;
     }
   
-    .timeline-item {
+   /* .timeline-item {
       padding-left: 25px;
       padding-right: 25px;
-    }
+    }*/
   
     .timeline-dot {
       left: -1px; /* Adjust for smaller dot positioning */
